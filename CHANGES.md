@@ -1,0 +1,1 @@
+- Release 2.0.0: the first release under the new name, **NOVA Launcher**. The program, its files, the installer and the two GitHub repositories are called NOVA Launcher / `NOVA_Launcher_Downloads`; everything since Release 1.1.0 is described in `RELEASE_TEXT.md`. No change of behaviour beyond 1.1.90 (the READMEs now name the option "When DCS closes: close the Companion Apps").
