@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "component": "DcsQvCull (DCS Control engine optimizations)",
+  "upstream": "https://github.com/NIGos/dcs-control",
+  "license": "MIT",
+  "copyright": "DCS VR Control contributors",
+  "tag": "v0.6.2-preview",
+  "commit": "753afa1c6052fdefe8a913e1ae21e2d6c062b54e",
+  "imported": "2026-10-31",
+  "source_zip": {
+    "name": "DcsControl-0.6.2-preview-win-x64.zip",
+    "sha256": "f39d3007a4adc68ba646e406d5c17b92bcbce4a82cc28cf43a2184971dabdcd7"
+  },
+  "files": {
+    "DcsQvCull.dll": {
+      "sha256": "928a6c0e2c0a73d2c8648bf17fcf5d134c23792ec518da382b1fd4b439850381",
+      "size": 257024
+    },
+    "DcsQvCull.lua": {
+      "sha256": "5121918376d1548dbfb14c75e04d0dfce9ca3e3d734a4ffa94e11a14df181808",
+      "size": 4886
+    },
+    "DcsQvCullPayload.dll": {
+      "sha256": "787471f8586c2da7b41676198d80858b6f329e2e9e65b70dcfeecaf09bf9d874",
+      "size": 4498944
+    }
+  }
+}
